@@ -23,7 +23,7 @@ fun FundamentalsApp() {
                 is Screen.Column-> ColumnScreen()
                 is Screen.Box -> BoxScreen()
                 is Screen.Surface -> SurfaceScreen()
-                is Screen.Scaffold -> RowScreen()
+                is Screen.Scaffold -> ScaffoldScreen()
             }
         }
     }
