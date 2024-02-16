@@ -17,4 +17,9 @@
     <string name="third">Третий</string>
     <string name="menu">Меню</string>
     <string name="MyComp">MyComposeApp</string>
+    <string name="button_Row">Row</string>
+    <string name="button_Column">Column</string>
+    <string name="button_Box">Box</string>
+    <string name="button_Surface">Surface</string>
+    <string name="button_Scaffold">Scaffold</string>
 </resources>
