@@ -22,4 +22,10 @@
     <string name="button_Box">Box</string>
     <string name="button_Surface">Surface</string>
     <string name="button_Scaffold">Scaffold</string>
+    <string name="advenced_architecture_android">Усовершенствованная архитектура Android</string>
+    <string name="kotlin_aprentice">Изучение Kotlin</string>
+    <string name="kotlin_coroutines">Корутины в Kotlin</string>
+    <string name="button_Scrolling">Scrolling</string>
+    <string name="button_Lists">Lists</string>
+    <string name="button_Grid">Grid</string>
 </resources>
