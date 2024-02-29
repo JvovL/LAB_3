@@ -21,7 +21,7 @@ sealed class Screen {
     object Surface:Screen()
     object Scaffold:Screen()
     object Scrolling:Screen()
-    object Lists:Screen()
+    object List:Screen()
     object Grid:Screen()
 
 }

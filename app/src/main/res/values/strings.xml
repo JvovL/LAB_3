@@ -28,4 +28,9 @@
     <string name="button_Scrolling">Scrolling</string>
     <string name="button_Lists">Lists</string>
     <string name="button_Grid">Grid</string>
+    <string name="Book">Обложки книг</string>
+    <string name="kotlin">kotlin</string>
+    <string name="swift">swift</string>
+    <string name="android">android</string>
+    <string name="ios">ios</string>
 </resources>
